@@ -10,6 +10,10 @@ la la agricultura?
 Con este EDA buscamos contrastar las emisiones generadas por ambas industrias para tener una vision mas clara del daño que produce el consumo de productos carnicos, no solo a nuestra salud, sino a al planeta.
 ----------
 
+
+## Fuentes 📖
+Para ese EDA hemos recogido datos de la web europea eurostat y ourworldindata.
+
 ***Repository link:*** https://github.com/JuditRoca/EDA.git
 
 *Para clonar este repositorio por https:*
