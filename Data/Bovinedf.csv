@@ -1,0 +1,1960 @@
+,PAIS,AÑO,OBS_VALUE
+0,Albania,2014,499.69
+1,Albania,2015,505.77
+2,Albania,2016,496.99
+3,Albania,2017,475.22
+4,Albania,2018,467.32
+5,Albania,2019,415.61
+6,Albania,2020,362.58
+7,Albania,2021,336.78
+8,Austria,2013,1958.28
+9,Austria,2014,1961.2
+10,Austria,2015,1957.61
+11,Austria,2016,1954.39
+12,Austria,2017,1943.48
+13,Austria,2018,1912.81
+14,Austria,2019,1879.52
+15,Austria,2020,1855.43
+16,Austria,2021,1870.1
+17,Austria,2022,1861.07
+18,Bosnia and Herzegovina,2013,447.0
+19,Bosnia and Herzegovina,2014,444.0
+20,Bosnia and Herzegovina,2015,455.0
+21,Bosnia and Herzegovina,2016,455.0
+22,Bosnia and Herzegovina,2017,445.0
+23,Bosnia and Herzegovina,2018,438.0
+24,Bosnia and Herzegovina,2019,430.0
+25,Bosnia and Herzegovina,2020,427.0
+26,Belgium,2013,2441.32
+27,Belgium,2014,2477.24
+28,Belgium,2015,2503.26
+29,Belgium,2016,2501.35
+30,Belgium,2017,2385.99
+31,Belgium,2018,2398.09
+32,Belgium,2019,2373.1
+33,Belgium,2020,2335.44
+34,Belgium,2021,2310.44
+35,Belgium,2022,2286.11
+36,Bulgaria,2013,585.55
+37,Bulgaria,2014,562.36
+38,Bulgaria,2015,561.04
+39,Bulgaria,2016,570.14
+40,Bulgaria,2017,552.92
+41,Bulgaria,2018,542.12
+42,Bulgaria,2019,527.19
+43,Bulgaria,2020,588.91
+44,Bulgaria,2021,611.2
+45,Bulgaria,2022,579.86
+46,Switzerland,2015,1567.14
+47,Switzerland,2016,1560.09
+48,Switzerland,2017,1560.73
+49,Switzerland,2018,1540.24
+50,Switzerland,2019,1528.92
+51,Switzerland,2020,1518.16
+52,Switzerland,2021,1529.76
+53,Switzerland,2022,1536.19
+54,Cyprus,2013,57.08
+55,Cyprus,2014,59.54
+56,Cyprus,2015,58.86
+57,Cyprus,2016,63.14
+58,Cyprus,2017,67.03
+59,Cyprus,2018,70.82
+60,Cyprus,2019,73.97
+61,Cyprus,2020,83.03
+62,Cyprus,2021,84.61
+63,Cyprus,2022,81.44
+64,Czechia,2013,1332.08
+65,Czechia,2014,1373.07
+66,Czechia,2015,1366.33
+67,Czechia,2016,1339.6
+68,Czechia,2017,1366.36
+69,Czechia,2018,1365.24
+70,Czechia,2019,1367.05
+71,Czechia,2020,1340.04
+72,Czechia,2021,1359.42
+73,Czechia,2022,1390.49
+74,Germany (until 1990 former territory of the FRG),2013,12685.99
+75,Germany (until 1990 former territory of the FRG),2014,12742.19
+76,Germany (until 1990 former territory of the FRG),2015,12635.46
+77,Germany (until 1990 former territory of the FRG),2016,12466.59
+78,Germany (until 1990 former territory of the FRG),2017,12281.2
+79,Germany (until 1990 former territory of the FRG),2018,11949.09
+80,Germany (until 1990 former territory of the FRG),2019,11639.53
+81,Germany (until 1990 former territory of the FRG),2020,11301.86
+82,Germany (until 1990 former territory of the FRG),2021,11039.66
+83,Germany (until 1990 former territory of the FRG),2022,10996.96
+84,Denmark,2013,1583.0
+85,Denmark,2014,1553.0
+86,Denmark,2015,1566.0
+87,Denmark,2016,1554.0
+88,Denmark,2017,1558.0
+89,Denmark,2018,1530.0
+90,Denmark,2019,1500.0
+91,Denmark,2020,1500.0
+92,Denmark,2021,1480.0
+93,Denmark,2022,1466.0
+94,Estonia,2013,261.4
+95,Estonia,2014,264.7
+96,Estonia,2015,256.2
+97,Estonia,2016,248.2
+98,Estonia,2017,250.9
+99,Estonia,2018,251.9
+100,Estonia,2019,254.0
+101,Estonia,2020,253.3
+102,Estonia,2021,250.8
+103,Estonia,2022,249.62
+104,Greece,2013,653.0
+105,Greece,2014,659.0
+106,Greece,2015,582.0
+107,Greece,2016,554.0
+108,Greece,2017,556.0
+109,Greece,2018,542.0
+110,Greece,2019,530.0
+111,Greece,2020,631.5
+112,Greece,2021,614.1
+113,Greece,2022,581.6
+114,Spain,2013,5802.22
+115,Spain,2014,6078.73
+116,Spain,2015,6182.91
+117,Spain,2016,6317.64
+118,Spain,2017,6465.75
+119,Spain,2018,6510.59
+120,Spain,2019,6600.33
+121,Spain,2020,6636.43
+122,Spain,2021,6576.3
+123,Spain,2022,6455.13
+124,European Union - 15 countries (1995-2004),2013,74565.58
+125,European Union - 15 countries (1995-2004),2014,75044.11
+126,European Union - 15 countries (1995-2004),2015,75661.1
+127,European Union - 15 countries (1995-2004),2016,75910.39
+128,European Union - 15 countries (1995-2004),2017,75175.58
+129,European Union - 15 countries (1995-2004),2018,73781.91
+130,European Union - 15 countries (1995-2004),2019,72924.81
+131,European Union - 25 countries (2004-2006),2013,84651.28
+132,European Union - 25 countries (2004-2006),2014,85310.98
+133,European Union - 25 countries (2004-2006),2015,86024.34
+134,European Union - 25 countries (2004-2006),2016,86439.7
+135,European Union - 25 countries (2004-2006),2017,85781.91
+136,European Union - 25 countries (2004-2006),2018,84516.78
+137,European Union - 25 countries (2004-2006),2019,83749.66
+138,European Union - 27 countries (2007-2013),2013,87259.23
+139,European Union - 27 countries (2007-2013),2014,87942.25
+140,European Union - 27 countries (2007-2013),2015,88677.79
+141,European Union - 27 countries (2007-2013),2016,89059.54
+142,European Union - 27 countries (2007-2013),2017,88345.94
+143,European Union - 27 countries (2007-2013),2018,87036.1
+144,European Union - 27 countries (2007-2013),2019,86200.16
+145,European Union - 27 countries (from 2020),2013,78019.23
+146,European Union - 27 countries (from 2020),2014,78690.25
+147,European Union - 27 countries (from 2020),2015,79302.79
+148,European Union - 27 countries (from 2020),2016,79697.54
+149,European Union - 27 countries (from 2020),2017,79009.94
+150,European Union - 27 countries (from 2020),2018,77840.1
+151,European Union - 27 countries (from 2020),2019,77161.16
+152,European Union - 27 countries (from 2020),2020,76551.1
+153,European Union - 27 countries (from 2020),2021,75705.3
+154,European Union - 27 countries (from 2020),2022,74799.03
+155,European Union - 28 countries (2013-2020),2013,87701.23
+156,European Union - 28 countries (2013-2020),2014,88383.25
+157,European Union - 28 countries (2013-2020),2015,89118.79
+158,European Union - 28 countries (2013-2020),2016,89503.54
+159,European Union - 28 countries (2013-2020),2017,88796.94
+160,European Union - 28 countries (2013-2020),2018,87450.1
+161,European Union - 28 countries (2013-2020),2019,86620.16
+162,Finland,2013,903.36
+163,Finland,2014,907.4
+164,Finland,2015,903.41
+165,Finland,2016,887.25
+166,Finland,2017,874.52
+167,Finland,2018,859.38
+168,Finland,2019,840.74
+169,Finland,2020,835.38
+170,Finland,2021,829.98
+171,Finland,2022,821.97
+172,France,2013,19095.8
+173,France,2014,19248.63
+174,France,2015,19386.52
+175,France,2016,19373.38
+176,France,2017,18953.58
+177,France,2018,18613.04
+178,France,2019,18172.97
+179,France,2020,17815.67
+180,France,2021,17330.08
+181,France,2022,16986.19
+182,Croatia,2013,442.0
+183,Croatia,2014,441.0
+184,Croatia,2015,441.0
+185,Croatia,2016,444.0
+186,Croatia,2017,451.0
+187,Croatia,2018,414.0
+188,Croatia,2019,420.0
+189,Croatia,2020,423.0
+190,Croatia,2021,428.0
+191,Croatia,2022,422.0
+192,Hungary,2013,782.0
+193,Hungary,2014,802.0
+194,Hungary,2015,821.0
+195,Hungary,2016,852.0
+196,Hungary,2017,870.0
+197,Hungary,2018,885.0
+198,Hungary,2019,909.0
+199,Hungary,2020,932.9
+200,Hungary,2021,909.9
+201,Hungary,2022,894.0
+202,Ireland,2013,6309.05
+203,Ireland,2014,6243.05
+204,Ireland,2015,6422.23
+205,Ireland,2016,6613.43
+206,Ireland,2017,6673.59
+207,Ireland,2018,6593.49
+208,Ireland,2019,6559.65
+209,Ireland,2020,6529.44
+210,Ireland,2021,6649.31
+211,Ireland,2022,6551.83
+212,Iceland,2013,73.2
+213,Iceland,2014,73.7
+214,Iceland,2015,75.9
+215,Iceland,2016,79.9
+216,Iceland,2017,80.9
+217,Iceland,2018,81.4
+218,Iceland,2019,80.9
+219,Iceland,2020,81.4
+220,Iceland,2022,79.93
+221,Italy,2013,6249.29
+222,Italy,2014,6125.42
+223,Italy,2015,6155.81
+224,Italy,2016,6314.89
+225,Italy,2017,6349.81
+226,Italy,2018,6311.16
+227,Italy,2019,6377.23
+228,Italy,2020,6400.04
+229,Italy,2021,6280.28
+230,Italy,2022,6049.0
+231,Lithuania,2013,713.5
+232,Lithuania,2014,736.6
+233,Lithuania,2015,722.6
+234,Lithuania,2016,694.8
+235,Lithuania,2017,676.9
+236,Lithuania,2018,653.5
+237,Lithuania,2019,634.6
+238,Lithuania,2020,629.5
+239,Lithuania,2021,628.7
+240,Lithuania,2022,641.92
+241,Luxembourg,2013,198.24
+242,Luxembourg,2014,201.15
+243,Luxembourg,2015,200.64
+244,Luxembourg,2016,202.41
+245,Luxembourg,2017,198.07
+246,Luxembourg,2018,194.39
+247,Luxembourg,2019,192.1
+248,Luxembourg,2020,190.69
+249,Luxembourg,2021,187.2
+250,Luxembourg,2022,186.13
+251,Latvia,2013,406.49
+252,Latvia,2014,422.02
+253,Latvia,2015,419.08
+254,Latvia,2016,412.31
+255,Latvia,2017,405.82
+256,Latvia,2018,395.33
+257,Latvia,2019,395.32
+258,Latvia,2020,398.99
+259,Latvia,2021,393.47
+260,Latvia,2022,391.35
+261,Montenegro,2013,89.0
+262,Montenegro,2014,94.0
+263,Montenegro,2015,92.0
+264,Montenegro,2016,89.0
+265,Montenegro,2017,87.0
+266,Montenegro,2018,83.3
+267,Montenegro,2019,81.4
+268,Montenegro,2020,77.89
+269,Montenegro,2021,71.17
+270,North Macedonia,2013,238.0
+271,North Macedonia,2014,242.0
+272,North Macedonia,2015,253.0
+273,North Macedonia,2016,255.0
+274,North Macedonia,2017,255.0
+275,North Macedonia,2018,256.0
+276,North Macedonia,2019,219.0
+277,North Macedonia,2020,222.0
+278,North Macedonia,2021,178.0
+279,North Macedonia,2022,165.0
+280,Malta,2013,15.22
+281,Malta,2014,14.88
+282,Malta,2015,15.02
+283,Malta,2016,14.36
+284,Malta,2017,14.18
+285,Malta,2018,14.12
+286,Malta,2019,14.0
+287,Malta,2020,14.29
+288,Malta,2021,14.02
+289,Malta,2022,14.2
+290,Netherlands,2013,4090.0
+291,Netherlands,2014,4169.0
+292,Netherlands,2015,4315.0
+293,Netherlands,2016,4294.0
+294,Netherlands,2017,4030.0
+295,Netherlands,2018,3690.0
+296,Netherlands,2019,3721.0
+297,Netherlands,2020,3691.0
+298,Netherlands,2021,3705.0
+299,Netherlands,2022,3751.0
+300,Poland,2013,5589.54
+301,Poland,2014,5660.27
+302,Poland,2015,5762.5
+303,Poland,2016,5970.2
+304,Poland,2017,6035.7
+305,Poland,2018,6183.3
+306,Poland,2019,6261.6
+307,Poland,2020,6278.9
+308,Poland,2021,6378.7
+309,Poland,2022,6448.29
+310,Portugal,2013,1470.5
+311,Portugal,2014,1548.61
+312,Portugal,2015,1605.86
+313,Portugal,2016,1635.01
+314,Portugal,2017,1670.02
+315,Portugal,2018,1632.42
+316,Portugal,2019,1674.97
+317,Portugal,2020,1691.32
+318,Portugal,2021,1640.65
+319,Portugal,2022,1579.14
+320,Romania,2013,2022.4
+321,Romania,2014,2068.9
+322,Romania,2015,2092.4
+323,Romania,2016,2049.7
+324,Romania,2017,2011.1
+325,Romania,2018,1977.2
+326,Romania,2019,1923.3
+327,Romania,2020,1875.2
+328,Romania,2021,1826.8
+329,Romania,2022,1825.1
+330,Serbia,2013,913.0
+331,Serbia,2014,920.0
+332,Serbia,2015,916.0
+333,Serbia,2016,893.0
+334,Serbia,2017,899.0
+335,Serbia,2018,878.0
+336,Serbia,2019,898.0
+337,Serbia,2020,886.0
+338,Serbia,2021,860.0
+339,Serbia,2022,799.84
+340,Sweden,2013,1443.52
+341,Sweden,2014,1436.49
+342,Sweden,2015,1428.4
+343,Sweden,2016,1436.05
+344,Sweden,2017,1448.59
+345,Sweden,2018,1435.45
+346,Sweden,2019,1404.67
+347,Sweden,2020,1390.96
+348,Sweden,2021,1389.89
+349,Sweden,2022,1390.55
+350,Slovenia,2013,460.58
+351,Slovenia,2014,468.25
+352,Slovenia,2015,484.19
+353,Slovenia,2016,488.6
+354,Slovenia,2017,479.61
+355,Slovenia,2018,476.81
+356,Slovenia,2019,483.07
+357,Slovenia,2020,485.61
+358,Slovenia,2021,482.62
+359,Slovenia,2022,464.91
+360,Slovakia,2013,467.82
+361,Slovakia,2014,465.54
+362,Slovakia,2015,457.46
+363,Slovakia,2016,446.11
+364,Slovakia,2017,439.83
+365,Slovakia,2018,438.86
+366,Slovakia,2019,432.25
+367,Slovakia,2020,442.29
+368,Slovakia,2021,434.09
+369,Slovakia,2022,433.18
+370,Türkiye,2013,14532.85
+371,Türkiye,2014,14244.67
+372,Türkiye,2015,14127.84
+373,Türkiye,2016,14222.23
+374,Türkiye,2017,16105.03
+375,Türkiye,2018,17220.9
+376,Türkiye,2019,17872.33
+377,Türkiye,2020,18157.97
+378,Türkiye,2021,18036.12
+379,United Kingdom,2013,9682.0
+380,United Kingdom,2014,9693.0
+381,United Kingdom,2015,9816.0
+382,United Kingdom,2016,9806.0
+383,United Kingdom,2017,9787.0
+384,United Kingdom,2018,9610.0
+385,United Kingdom,2019,9459.0
+386,Kosovo (under United Nations Security Council Resolution 1244/99),2014,261.69
+387,Kosovo (under United Nations Security Council Resolution 1244/99),2015,258.5
+388,Kosovo (under United Nations Security Council Resolution 1244/99),2016,264.97
+389,Kosovo (under United Nations Security Council Resolution 1244/99),2017,259.73
+390,Kosovo (under United Nations Security Council Resolution 1244/99),2018,259.73
+391,Kosovo (under United Nations Security Council Resolution 1244/99),2019,257.73
+392,Kosovo (under United Nations Security Council Resolution 1244/99),2020,261.39
+393,Kosovo (under United Nations Security Council Resolution 1244/99),2021,260.53
+394,Albania,2014,57.29
+395,Albania,2015,58.79
+396,Albania,2016,57.77
+397,Albania,2017,42.77
+398,Albania,2018,42.3
+399,Albania,2019,33.73
+400,Albania,2020,23.46
+401,Albania,2021,18.93
+402,Austria,2013,626.97
+403,Austria,2014,629.4
+404,Austria,2015,624.48
+405,Austria,2016,632.15
+406,Austria,2017,623.52
+407,Austria,2018,618.22
+408,Austria,2019,605.32
+409,Austria,2020,598.6
+410,Austria,2021,611.01
+411,Austria,2022,596.99
+412,Bosnia and Herzegovina,2013,92.0
+413,Bosnia and Herzegovina,2014,91.0
+414,Bosnia and Herzegovina,2015,98.0
+415,Bosnia and Herzegovina,2016,100.0
+416,Bosnia and Herzegovina,2017,93.0
+417,Bosnia and Herzegovina,2018,92.0
+418,Bosnia and Herzegovina,2019,92.0
+419,Bosnia and Herzegovina,2020,91.0
+420,Belgium,2013,717.73
+421,Belgium,2014,744.97
+422,Belgium,2015,748.56
+423,Belgium,2016,748.26
+424,Belgium,2017,699.71
+425,Belgium,2018,723.99
+426,Belgium,2019,721.96
+427,Belgium,2020,711.97
+428,Belgium,2021,712.87
+429,Belgium,2022,693.72
+430,Bulgaria,2013,150.04
+431,Bulgaria,2014,120.65
+432,Bulgaria,2015,108.81
+433,Bulgaria,2016,119.69
+434,Bulgaria,2017,109.72
+435,Bulgaria,2018,108.15
+436,Bulgaria,2019,99.7
+437,Bulgaria,2020,111.6
+438,Bulgaria,2021,121.3
+439,Bulgaria,2022,107.95
+440,Switzerland,2015,507.92
+441,Switzerland,2016,510.59
+442,Switzerland,2017,508.47
+443,Switzerland,2018,504.49
+444,Switzerland,2019,501.57
+445,Switzerland,2020,506.06
+446,Switzerland,2021,514.2
+447,Switzerland,2022,513.54
+448,Cyprus,2013,21.08
+449,Cyprus,2014,21.93
+450,Cyprus,2015,20.81
+451,Cyprus,2016,21.77
+452,Cyprus,2017,23.44
+453,Cyprus,2018,23.79
+454,Cyprus,2019,24.53
+455,Cyprus,2020,26.77
+456,Cyprus,2021,26.9
+457,Cyprus,2022,24.9
+458,Czechia,2013,390.42
+459,Czechia,2014,412.5
+460,Czechia,2015,403.47
+461,Czechia,2016,397.03
+462,Czechia,2017,406.69
+463,Czechia,2018,403.62
+464,Czechia,2019,411.03
+465,Czechia,2020,404.71
+466,Czechia,2021,408.33
+467,Czechia,2022,406.65
+468,Germany (until 1990 former territory of the FRG),2013,3878.25
+469,Germany (until 1990 former territory of the FRG),2014,3908.57
+470,Germany (until 1990 former territory of the FRG),2015,3836.21
+471,Germany (until 1990 former territory of the FRG),2016,3794.84
+472,Germany (until 1990 former territory of the FRG),2017,3704.22
+473,Germany (until 1990 former territory of the FRG),2018,3583.69
+474,Germany (until 1990 former territory of the FRG),2019,3485.38
+475,Germany (until 1990 former territory of the FRG),2020,3404.52
+476,Germany (until 1990 former territory of the FRG),2021,3354.96
+477,Germany (until 1990 former territory of the FRG),2022,3307.67
+478,Denmark,2013,528.0
+479,Denmark,2014,534.0
+480,Denmark,2015,538.0
+481,Denmark,2016,540.0
+482,Denmark,2017,541.0
+483,Denmark,2018,534.0
+484,Denmark,2019,522.0
+485,Denmark,2020,524.0
+486,Denmark,2021,516.0
+487,Denmark,2022,510.0
+488,Estonia,2013,70.7
+489,Estonia,2014,73.0
+490,Estonia,2015,70.3
+491,Estonia,2016,67.9
+492,Estonia,2017,70.0
+493,Estonia,2018,70.6
+494,Estonia,2019,70.9
+495,Estonia,2020,72.1
+496,Estonia,2021,68.8
+497,Estonia,2022,69.07
+498,Greece,2013,167.0
+499,Greece,2014,176.0
+500,Greece,2015,154.0
+501,Greece,2016,145.0
+502,Greece,2017,151.0
+503,Greece,2018,141.0
+504,Greece,2019,157.0
+505,Greece,2020,162.4
+506,Greece,2021,176.4
+507,Greece,2022,156.1
+508,Spain,2013,2067.77
+509,Spain,2014,2301.99
+510,Spain,2015,2324.64
+511,Spain,2016,2403.64
+512,Spain,2017,2492.05
+513,Spain,2018,2494.13
+514,Spain,2019,2528.83
+515,Spain,2020,2541.32
+516,Spain,2021,2319.42
+517,Spain,2022,2488.84
+518,European Union - 15 countries (1995-2004),2013,22720.38
+519,European Union - 15 countries (1995-2004),2014,23220.45
+520,European Union - 15 countries (1995-2004),2015,23559.88
+521,European Union - 15 countries (1995-2004),2016,23601.72
+522,European Union - 15 countries (1995-2004),2017,23195.01
+523,European Union - 15 countries (1995-2004),2018,22791.23
+524,European Union - 15 countries (1995-2004),2019,22576.06
+525,European Union - 25 countries (2004-2006),2013,25399.65
+526,European Union - 25 countries (2004-2006),2014,25989.34
+527,European Union - 25 countries (2004-2006),2015,26477.08
+528,European Union - 25 countries (2004-2006),2016,26626.91
+529,European Union - 25 countries (2004-2006),2017,26221.81
+530,European Union - 25 countries (2004-2006),2018,25809.23
+531,European Union - 25 countries (2004-2006),2019,25640.32
+532,European Union - 27 countries (2007-2013),2013,26003.79
+533,European Union - 27 countries (2007-2013),2014,26572.79
+534,European Union - 27 countries (2007-2013),2015,27060.59
+535,European Union - 27 countries (2007-2013),2016,27193.49
+536,European Union - 27 countries (2007-2013),2017,26763.93
+537,European Union - 27 countries (2007-2013),2018,26335.18
+538,European Union - 27 countries (2007-2013),2019,26140.32
+539,European Union - 27 countries (from 2020),2013,23345.79
+540,European Union - 27 countries (from 2020),2014,23862.79
+541,European Union - 27 countries (from 2020),2015,24241.59
+542,European Union - 27 countries (from 2020),2016,24395.49
+543,European Union - 27 countries (from 2020),2017,23963.93
+544,European Union - 27 countries (from 2020),2018,23619.18
+545,European Union - 27 countries (from 2020),2019,23431.32
+546,European Union - 27 countries (from 2020),2020,23428.09
+547,European Union - 27 countries (from 2020),2021,23064.92
+548,European Union - 27 countries (from 2020),2022,22871.26
+549,European Union - 28 countries (2013-2020),2013,26148.79
+550,European Union - 28 countries (2013-2020),2014,26704.79
+551,European Union - 28 countries (2013-2020),2015,27208.59
+552,European Union - 28 countries (2013-2020),2016,27347.49
+553,European Union - 28 countries (2013-2020),2017,26919.93
+554,European Union - 28 countries (2013-2020),2018,26488.18
+555,European Union - 28 countries (2013-2020),2019,26291.32
+556,Finland,2013,301.84
+557,Finland,2014,306.98
+558,Finland,2015,307.82
+559,Finland,2016,302.1
+560,Finland,2017,298.8
+561,Finland,2018,295.76
+562,Finland,2019,287.31
+563,Finland,2020,291.69
+564,Finland,2021,286.88
+565,Finland,2022,283.08
+566,France,2013,5453.68
+567,France,2014,5545.79
+568,France,2015,5617.63
+569,France,2016,5574.55
+570,France,2017,5270.85
+571,France,2018,5304.06
+572,France,2019,5124.53
+573,France,2020,5119.13
+574,France,2021,4944.73
+575,France,2022,4867.63
+576,Croatia,2013,145.0
+577,Croatia,2014,132.0
+578,Croatia,2015,148.0
+579,Croatia,2016,154.0
+580,Croatia,2017,156.0
+581,Croatia,2018,153.0
+582,Croatia,2019,151.0
+583,Croatia,2020,146.0
+584,Croatia,2021,156.0
+585,Croatia,2022,149.0
+586,Hungary,2013,212.0
+587,Hungary,2014,219.0
+588,Hungary,2015,220.0
+589,Hungary,2016,239.0
+590,Hungary,2017,243.0
+591,Hungary,2018,251.0
+592,Hungary,2019,258.0
+593,Hungary,2020,266.1
+594,Hungary,2021,269.2
+595,Hungary,2022,258.0
+596,Ireland,2013,1893.29
+597,Ireland,2014,1885.7
+598,Ireland,2015,2025.7
+599,Ireland,2016,2076.51
+600,Ireland,2017,2086.51
+601,Ireland,2018,1999.88
+602,Ireland,2019,1962.38
+603,Ireland,2020,2056.58
+604,Ireland,2021,2107.69
+605,Ireland,2022,1995.45
+606,Iceland,2013,20.1
+607,Iceland,2014,20.1
+608,Iceland,2015,20.1
+609,Iceland,2016,22.8
+610,Iceland,2017,22.8
+611,Iceland,2018,22.9
+612,Iceland,2019,22.8
+613,Iceland,2020,22.9
+614,Iceland,2022,21.89
+615,Italy,2013,1680.32
+616,Italy,2014,1653.88
+617,Italy,2015,1678.15
+618,Italy,2016,1745.23
+619,Italy,2017,1738.44
+620,Italy,2018,1702.76
+621,Italy,2019,1759.33
+622,Italy,2020,1773.64
+623,Italy,2021,1721.89
+624,Italy,2022,1563.0
+625,Lithuania,2013,186.5
+626,Lithuania,2014,192.2
+627,Lithuania,2015,185.3
+628,Lithuania,2016,179.3
+629,Lithuania,2017,180.2
+630,Lithuania,2018,172.9
+631,Lithuania,2019,166.7
+632,Lithuania,2020,168.6
+633,Lithuania,2021,165.8
+634,Lithuania,2022,173.09
+635,Luxembourg,2013,55.23
+636,Luxembourg,2014,54.47
+637,Luxembourg,2015,53.67
+638,Luxembourg,2016,54.34
+639,Luxembourg,2017,50.46
+640,Luxembourg,2018,50.17
+641,Luxembourg,2019,49.73
+642,Luxembourg,2020,49.84
+643,Luxembourg,2021,48.59
+644,Luxembourg,2022,47.57
+645,Latvia,2013,109.28
+646,Latvia,2014,118.38
+647,Latvia,2015,113.57
+648,Latvia,2016,112.97
+649,Latvia,2017,108.19
+650,Latvia,2018,105.9
+651,Latvia,2019,108.24
+652,Latvia,2020,111.51
+653,Latvia,2021,106.7
+654,Latvia,2022,107.17
+655,Montenegro,2013,17.0
+656,Montenegro,2014,20.0
+657,Montenegro,2015,19.0
+658,Montenegro,2016,16.0
+659,Montenegro,2017,16.0
+660,Montenegro,2018,14.8
+661,Montenegro,2019,15.3
+662,Montenegro,2020,14.64
+663,Montenegro,2021,13.87
+664,North Macedonia,2013,62.0
+665,North Macedonia,2014,64.0
+666,North Macedonia,2015,71.0
+667,North Macedonia,2016,66.0
+668,North Macedonia,2017,69.0
+669,North Macedonia,2018,70.0
+670,North Macedonia,2019,63.0
+671,North Macedonia,2020,57.0
+672,North Macedonia,2021,49.0
+673,North Macedonia,2022,40.0
+674,Malta,2013,4.3
+675,Malta,2014,4.48
+676,Malta,2015,4.17
+677,Malta,2016,3.88
+678,Malta,2017,4.18
+679,Malta,2018,4.25
+680,Malta,2019,4.0
+681,Malta,2020,4.37
+682,Malta,2021,4.28
+683,Malta,2022,4.35
+684,Netherlands,2013,1653.0
+685,Netherlands,2014,1676.0
+686,Netherlands,2015,1707.0
+687,Netherlands,2016,1666.0
+688,Netherlands,2017,1594.0
+689,Netherlands,2018,1510.0
+690,Netherlands,2019,1528.0
+691,Netherlands,2020,1510.0
+692,Netherlands,2021,1519.0
+693,Netherlands,2022,1536.0
+694,Poland,2013,1408.63
+695,Poland,2014,1450.0
+696,Poland,2015,1616.9
+697,Poland,2016,1717.8
+698,Poland,2017,1713.1
+699,Poland,2018,1709.4
+700,Poland,2019,1747.6
+701,Poland,2020,1734.6
+702,Poland,2021,1801.9
+703,Poland,2022,1928.55
+704,Portugal,2013,425.23
+705,Portugal,2014,487.29
+706,Portugal,2015,509.84
+707,Portugal,2016,499.22
+708,Portugal,2017,514.71
+709,Portugal,2018,497.06
+710,Portugal,2019,531.15
+711,Portugal,2020,525.57
+712,Portugal,2021,527.63
+713,Portugal,2022,515.82
+714,Romania,2013,454.1
+715,Romania,2014,462.8
+716,Romania,2015,474.7
+717,Romania,2016,446.9
+718,Romania,2017,432.4
+719,Romania,2018,417.8
+720,Romania,2019,400.3
+721,Romania,2020,368.8
+722,Romania,2021,347.3
+723,Romania,2022,345.9
+724,Serbia,2013,293.0
+725,Serbia,2014,294.0
+726,Serbia,2015,297.0
+727,Serbia,2016,271.0
+728,Serbia,2017,281.0
+729,Serbia,2018,264.0
+730,Serbia,2019,264.0
+731,Serbia,2020,260.0
+732,Serbia,2021,246.0
+733,Serbia,2022,228.02
+734,Sweden,2013,469.07
+735,Sweden,2014,473.42
+736,Sweden,2015,467.19
+737,Sweden,2016,467.9
+738,Sweden,2017,473.75
+739,Sweden,2018,467.52
+740,Sweden,2019,453.13
+741,Sweden,2020,464.43
+742,Sweden,2021,460.14
+743,Sweden,2022,461.28
+744,Slovenia,2013,143.85
+745,Slovenia,2014,147.64
+746,Slovenia,2015,152.52
+747,Slovenia,2016,155.05
+748,Slovenia,2017,153.23
+749,Slovenia,2018,153.2
+750,Slovenia,2019,151.02
+751,Slovenia,2020,153.12
+752,Slovenia,2021,156.59
+753,Slovenia,2022,149.05
+754,Slovakia,2013,132.52
+755,Slovakia,2014,129.77
+756,Slovakia,2015,130.16
+757,Slovakia,2016,130.48
+758,Slovakia,2017,124.77
+759,Slovakia,2018,123.34
+760,Slovakia,2019,122.26
+761,Slovakia,2020,126.14
+762,Slovakia,2021,124.63
+763,Slovakia,2022,124.45
+764,Türkiye,2013,3591.38
+765,Türkiye,2014,3485.41
+766,Türkiye,2015,3444.67
+767,Türkiye,2016,3539.24
+768,Türkiye,2017,4290.84
+769,Türkiye,2018,4489.69
+770,Türkiye,2019,4671.5
+771,Türkiye,2020,4617.82
+772,Türkiye,2021,4554.32
+773,United Kingdom,2013,2803.0
+774,United Kingdom,2014,2842.0
+775,United Kingdom,2015,2967.0
+776,United Kingdom,2016,2952.0
+777,United Kingdom,2017,2956.0
+778,United Kingdom,2018,2869.0
+779,United Kingdom,2019,2860.0
+780,Kosovo (under United Nations Security Council Resolution 1244/99),2014,83.41
+781,Kosovo (under United Nations Security Council Resolution 1244/99),2015,81.34
+782,Kosovo (under United Nations Security Council Resolution 1244/99),2016,83.57
+783,Kosovo (under United Nations Security Council Resolution 1244/99),2017,84.48
+784,Kosovo (under United Nations Security Council Resolution 1244/99),2018,84.48
+785,Kosovo (under United Nations Security Council Resolution 1244/99),2019,83.13
+786,Kosovo (under United Nations Security Council Resolution 1244/99),2020,84.15
+787,Kosovo (under United Nations Security Council Resolution 1244/99),2021,83.24
+788,Albania,2014,11.32
+789,Albania,2015,11.75
+790,Albania,2016,11.55
+791,Albania,2017,14.49
+792,Albania,2018,14.34
+793,Albania,2019,11.45
+794,Albania,2020,8.5
+795,Albania,2021,6.86
+796,Austria,2013,162.85
+797,Austria,2014,161.06
+798,Austria,2015,159.51
+799,Austria,2016,160.84
+800,Austria,2017,157.25
+801,Austria,2018,154.93
+802,Austria,2019,152.12
+803,Austria,2020,151.0
+804,Austria,2021,154.13
+805,Austria,2022,43.99
+806,Bosnia and Herzegovina,2013,37.0
+807,Bosnia and Herzegovina,2014,36.0
+808,Bosnia and Herzegovina,2015,37.0
+809,Bosnia and Herzegovina,2016,36.0
+810,Bosnia and Herzegovina,2017,35.0
+811,Bosnia and Herzegovina,2018,33.0
+812,Bosnia and Herzegovina,2019,32.0
+813,Bosnia and Herzegovina,2020,36.0
+814,Belgium,2013,165.12
+815,Belgium,2014,178.62
+816,Belgium,2015,183.12
+817,Belgium,2016,167.7
+818,Belgium,2017,161.13
+819,Belgium,2018,170.36
+820,Belgium,2019,171.46
+821,Belgium,2020,171.48
+822,Belgium,2021,173.2
+823,Belgium,2022,168.15
+824,Bulgaria,2013,88.84
+825,Bulgaria,2014,47.74
+826,Bulgaria,2015,33.52
+827,Bulgaria,2016,26.77
+828,Bulgaria,2017,23.09
+829,Bulgaria,2018,24.98
+830,Bulgaria,2019,19.69
+831,Bulgaria,2020,33.1
+832,Bulgaria,2021,23.93
+833,Bulgaria,2022,17.7
+834,Switzerland,2015,248.72
+835,Switzerland,2016,252.85
+836,Switzerland,2017,248.88
+837,Switzerland,2018,251.7
+838,Switzerland,2019,246.25
+839,Switzerland,2020,253.32
+840,Switzerland,2021,251.86
+841,Switzerland,2022,245.56
+842,Cyprus,2013,9.48
+843,Cyprus,2014,10.49
+844,Cyprus,2015,9.11
+845,Cyprus,2016,9.83
+846,Cyprus,2017,10.37
+847,Cyprus,2018,10.48
+848,Cyprus,2019,10.19
+849,Cyprus,2020,10.92
+850,Cyprus,2021,10.16
+851,Cyprus,2022,9.38
+852,Czechia,2013,8.73
+853,Czechia,2014,4.46
+854,Czechia,2015,3.95
+855,Czechia,2016,1.72
+856,Czechia,2017,0.43
+857,Czechia,2018,0.96
+858,Czechia,2019,0.55
+859,Czechia,2020,1.96
+860,Czechia,2021,1.33
+861,Czechia,2022,2.01
+862,Germany (until 1990 former territory of the FRG),2013,214.6
+863,Germany (until 1990 former territory of the FRG),2014,213.08
+864,Germany (until 1990 former territory of the FRG),2015,213.96
+865,Germany (until 1990 former territory of the FRG),2016,224.27
+866,Germany (until 1990 former territory of the FRG),2017,216.64
+867,Germany (until 1990 former territory of the FRG),2018,208.78
+868,Germany (until 1990 former territory of the FRG),2019,210.76
+869,Germany (until 1990 former territory of the FRG),2020,207.71
+870,Germany (until 1990 former territory of the FRG),2021,204.72
+871,Germany (until 1990 former territory of the FRG),2022,192.5
+872,Denmark,2013,255.0
+873,Denmark,2014,255.0
+874,Denmark,2015,259.0
+875,Denmark,2016,258.0
+876,Denmark,2017,268.0
+877,Denmark,2018,268.0
+878,Denmark,2019,256.0
+879,Denmark,2020,247.0
+880,Denmark,2021,238.0
+881,Denmark,2022,230.0
+882,Estonia,2013,3.4
+883,Estonia,2014,4.2
+884,Estonia,2015,3.3
+885,Estonia,2016,3.3
+886,Estonia,2017,3.3
+887,Estonia,2018,3.3
+888,Estonia,2019,3.5
+889,Estonia,2020,3.6
+890,Estonia,2021,3.4
+891,Estonia,2022,3.45
+892,Greece,2013,48.0
+893,Greece,2014,63.0
+894,Greece,2015,54.0
+895,Greece,2016,38.0
+896,Greece,2017,46.0
+897,Greece,2018,35.0
+898,Greece,2019,46.0
+899,Greece,2020,94.5
+900,Greece,2021,112.3
+901,Greece,2022,100.1
+902,Spain,2013,1408.53
+903,Spain,2014,1585.23
+904,Spain,2015,1693.87
+905,Spain,2016,1781.85
+906,Spain,2017,1876.32
+907,Spain,2018,1862.27
+908,Spain,2019,1872.21
+909,Spain,2020,1880.06
+910,Spain,2021,1528.43
+911,Spain,2022,1747.12
+912,European Union - 15 countries (1995-2004),2013,4571.53
+913,European Union - 15 countries (1995-2004),2014,4698.12
+914,European Union - 15 countries (1995-2004),2015,5327.39
+915,European Union - 15 countries (1995-2004),2016,5397.83
+916,European Union - 15 countries (1995-2004),2017,5482.18
+917,European Union - 15 countries (1995-2004),2018,5540.65
+918,European Union - 15 countries (1995-2004),2019,5523.0
+919,European Union - 25 countries (2004-2006),2013,5079.05
+920,European Union - 25 countries (2004-2006),2014,5229.95
+921,European Union - 25 countries (2004-2006),2015,5707.98
+922,European Union - 25 countries (2004-2006),2016,5758.73
+923,European Union - 25 countries (2004-2006),2017,5831.38
+924,European Union - 25 countries (2004-2006),2018,5861.49
+925,European Union - 25 countries (2004-2006),2019,5851.44
+926,European Union - 27 countries (2007-2013),2013,5321.49
+927,European Union - 27 countries (2007-2013),2014,5432.09
+928,European Union - 27 countries (2007-2013),2015,5903.3
+929,European Union - 27 countries (2007-2013),2016,5919.2
+930,European Union - 27 countries (2007-2013),2017,5982.97
+931,European Union - 27 countries (2007-2013),2018,6007.07
+932,European Union - 27 countries (2007-2013),2019,5966.62
+933,European Union - 27 countries (from 2020),2013,5314.49
+934,European Union - 27 countries (from 2020),2014,5419.09
+935,European Union - 27 countries (from 2020),2015,5895.3
+936,European Union - 27 countries (from 2020),2016,5912.2
+937,European Union - 27 countries (from 2020),2017,5975.97
+938,European Union - 27 countries (from 2020),2018,6000.07
+939,European Union - 27 countries (from 2020),2019,5959.62
+940,European Union - 27 countries (from 2020),2020,5979.68
+941,European Union - 27 countries (from 2020),2021,5581.35
+942,European Union - 27 countries (from 2020),2022,5559.29
+943,European Union - 28 countries (2013-2020),2013,5340.49
+944,European Union - 28 countries (2013-2020),2014,5445.09
+945,European Union - 28 countries (2013-2020),2015,5923.3
+946,European Union - 28 countries (2013-2020),2016,5939.2
+947,European Union - 28 countries (2013-2020),2017,6002.97
+948,European Union - 28 countries (2013-2020),2018,6026.07
+949,European Union - 28 countries (2013-2020),2019,5985.62
+950,Finland,2013,2.71
+951,Finland,2014,2.74
+952,Finland,2015,2.77
+953,Finland,2016,2.72
+954,Finland,2017,2.69
+955,Finland,2018,2.66
+956,Finland,2019,2.56
+957,Finland,2020,2.63
+958,Finland,2021,2.58
+959,Finland,2022,2.55
+960,France,2013,641.17
+961,France,2014,624.53
+962,France,2015,628.09
+963,France,2016,630.63
+964,France,2017,596.23
+965,France,2018,618.73
+966,France,2019,599.0
+967,France,2020,591.82
+968,France,2021,565.41
+969,France,2022,563.6
+970,Croatia,2013,19.0
+971,Croatia,2014,13.0
+972,Croatia,2015,20.0
+973,Croatia,2016,20.0
+974,Croatia,2017,20.0
+975,Croatia,2018,19.0
+976,Croatia,2019,19.0
+977,Croatia,2020,19.0
+978,Croatia,2021,20.0
+979,Croatia,2022,19.0
+980,Hungary,2013,53.0
+981,Hungary,2014,50.0
+982,Hungary,2015,56.0
+983,Hungary,2016,62.0
+984,Hungary,2017,67.0
+985,Hungary,2018,72.0
+986,Hungary,2019,74.0
+987,Hungary,2020,80.2
+988,Hungary,2021,91.7
+989,Hungary,2022,89.4
+990,Ireland,2013,5.6
+991,Ireland,2014,8.3
+992,Ireland,2015,6.7
+993,Ireland,2016,7.1
+994,Ireland,2017,13.6
+995,Ireland,2018,19.4
+996,Ireland,2019,32.9
+997,Ireland,2020,28.9
+998,Ireland,2021,29.9
+999,Ireland,2022,33.33
+1000,Iceland,2013,0.5
+1001,Iceland,2014,0.5
+1002,Iceland,2015,0.5
+1003,Italy,2013,485.48
+1004,Italy,2014,498.41
+1005,Italy,2015,992.39
+1006,Italy,2016,1015.59
+1007,Italy,2017,1022.11
+1008,Italy,2018,980.51
+1009,Italy,2019,985.0
+1010,Italy,2020,990.61
+1011,Italy,2021,955.08
+1012,Italy,2022,868.0
+1013,Lithuania,2013,55.2
+1014,Lithuania,2014,57.8
+1015,Lithuania,2015,64.6
+1016,Lithuania,2016,60.6
+1017,Lithuania,2017,68.1
+1018,Lithuania,2018,64.8
+1019,Lithuania,2019,62.6
+1020,Lithuania,2020,60.9
+1021,Lithuania,2021,58.7
+1022,Lithuania,2022,62.65
+1023,Luxembourg,2013,3.95
+1024,Luxembourg,2014,4.37
+1025,Luxembourg,2015,5.59
+1026,Luxembourg,2016,5.15
+1027,Luxembourg,2017,5.04
+1028,Luxembourg,2018,4.91
+1029,Luxembourg,2019,4.56
+1030,Luxembourg,2020,4.82
+1031,Luxembourg,2021,4.54
+1032,Luxembourg,2022,4.38
+1033,Latvia,2013,52.99
+1034,Latvia,2014,57.4
+1035,Latvia,2015,55.07
+1036,Latvia,2016,54.79
+1037,Latvia,2017,52.46
+1038,Latvia,2018,51.36
+1039,Latvia,2019,52.49
+1040,Latvia,2020,54.08
+1041,Latvia,2021,51.74
+1042,Latvia,2022,51.97
+1043,Montenegro,2013,8.0
+1044,Montenegro,2014,8.0
+1045,Montenegro,2015,7.0
+1046,Montenegro,2016,7.0
+1047,Montenegro,2017,5.0
+1048,Montenegro,2018,5.4
+1049,Montenegro,2019,6.0
+1050,Montenegro,2020,5.57
+1051,Montenegro,2021,5.35
+1052,North Macedonia,2013,4.0
+1053,North Macedonia,2014,10.0
+1054,North Macedonia,2015,9.0
+1055,North Macedonia,2016,7.0
+1056,North Macedonia,2017,7.0
+1057,North Macedonia,2018,3.0
+1058,North Macedonia,2019,6.0
+1059,North Macedonia,2020,5.0
+1060,North Macedonia,2021,6.0
+1061,North Macedonia,2022,5.0
+1062,Malta,2013,0.0
+1063,Malta,2014,0.0
+1064,Malta,2015,0.0
+1065,Malta,2016,0.0
+1066,Malta,2017,0.0
+1067,Malta,2018,0.0
+1068,Malta,2019,0.0
+1069,Malta,2020,0.0
+1070,Malta,2021,0.0
+1071,Malta,2022,0.0
+1072,Netherlands,2013,1026.0
+1073,Netherlands,2014,939.0
+1074,Netherlands,2015,955.0
+1075,Netherlands,2016,941.0
+1076,Netherlands,2017,948.0
+1077,Netherlands,2018,1056.0
+1078,Netherlands,2019,1042.0
+1079,Netherlands,2020,1001.0
+1080,Netherlands,2021,1022.0
+1081,Netherlands,2022,1022.0
+1082,Poland,2013,289.98
+1083,Poland,2014,313.21
+1084,Poland,2015,159.9
+1085,Poland,2016,137.8
+1086,Poland,2017,114.3
+1087,Poland,2018,86.2
+1088,Poland,2019,97.1
+1089,Poland,2020,88.5
+1090,Poland,2021,104.1
+1091,Poland,2022,107.6
+1092,Portugal,2013,105.7
+1093,Portugal,2014,117.77
+1094,Portugal,2015,115.19
+1095,Portugal,2016,110.28
+1096,Portugal,2017,117.73
+1097,Portugal,2018,111.13
+1098,Portugal,2019,101.74
+1099,Portugal,2020,108.58
+1100,Portugal,2021,97.6
+1101,Portugal,2022,93.86
+1102,Romania,2013,153.6
+1103,Romania,2014,154.4
+1104,Romania,2015,161.8
+1105,Romania,2016,133.7
+1106,Romania,2017,128.5
+1107,Romania,2018,120.6
+1108,Romania,2019,95.5
+1109,Romania,2020,94.4
+1110,Romania,2021,76.8
+1111,Romania,2022,76.1
+1112,Serbia,2013,24.0
+1113,Serbia,2014,24.0
+1114,Serbia,2015,28.0
+1115,Serbia,2016,15.0
+1116,Serbia,2017,25.0
+1117,Serbia,2018,22.0
+1118,Serbia,2019,19.0
+1119,Serbia,2020,19.0
+1120,Serbia,2021,26.0
+1121,Serbia,2022,25.28
+1122,Sweden,2013,20.83
+1123,Sweden,2014,21.02
+1124,Sweden,2015,30.19
+1125,Sweden,2016,27.7
+1126,Sweden,2017,24.45
+1127,Sweden,2018,21.95
+1128,Sweden,2019,20.69
+1129,Sweden,2020,21.21
+1130,Sweden,2021,19.81
+1131,Sweden,2022,18.98
+1132,Slovenia,2013,14.15
+1133,Slovenia,2014,14.18
+1134,Slovenia,2015,10.87
+1135,Slovenia,2016,11.05
+1136,Slovenia,2017,13.14
+1137,Slovenia,2018,12.28
+1138,Slovenia,2019,8.86
+1139,Slovenia,2020,12.06
+1140,Slovenia,2021,12.05
+1141,Slovenia,2022,13.37
+1142,Slovakia,2013,20.59
+1143,Slovakia,2014,20.08
+1144,Slovakia,2015,17.8
+1145,Slovakia,2016,19.83
+1146,Slovakia,2017,20.1
+1147,Slovakia,2018,19.47
+1148,Slovakia,2019,19.15
+1149,Slovakia,2020,19.66
+1150,Slovakia,2021,19.77
+1151,Slovakia,2022,18.09
+1152,Türkiye,2013,20.59
+1153,Türkiye,2014,19.99
+1154,Türkiye,2015,19.75
+1155,Türkiye,2016,20.29
+1156,Türkiye,2017,24.6
+1157,Türkiye,2018,25.74
+1158,Türkiye,2019,885.24
+1159,Türkiye,2020,875.07
+1160,Türkiye,2021,823.36
+1161,United Kingdom,2013,26.0
+1162,United Kingdom,2014,26.0
+1163,United Kingdom,2015,28.0
+1164,United Kingdom,2016,27.0
+1165,United Kingdom,2017,27.0
+1166,United Kingdom,2018,26.0
+1167,United Kingdom,2019,26.0
+1168,Kosovo (under United Nations Security Council Resolution 1244/99),2014,39.98
+1169,Kosovo (under United Nations Security Council Resolution 1244/99),2015,38.99
+1170,Kosovo (under United Nations Security Council Resolution 1244/99),2016,45.69
+1171,Kosovo (under United Nations Security Council Resolution 1244/99),2017,45.18
+1172,Kosovo (under United Nations Security Council Resolution 1244/99),2018,45.18
+1173,Kosovo (under United Nations Security Council Resolution 1244/99),2019,44.92
+1174,Kosovo (under United Nations Security Council Resolution 1244/99),2020,45.73
+1175,Kosovo (under United Nations Security Council Resolution 1244/99),2021,48.33
+1176,Albania,2014,45.97
+1177,Albania,2015,47.04
+1178,Albania,2016,46.22
+1179,Albania,2017,28.28
+1180,Albania,2018,27.97
+1181,Albania,2019,22.28
+1182,Albania,2020,14.96
+1183,Albania,2021,12.07
+1184,Austria,2013,464.12
+1185,Austria,2014,468.34
+1186,Austria,2015,464.97
+1187,Austria,2016,471.31
+1188,Austria,2017,466.27
+1189,Austria,2018,463.29
+1190,Austria,2019,453.21
+1191,Austria,2020,447.6
+1192,Austria,2021,456.88
+1193,Austria,2022,553.0
+1194,Bosnia and Herzegovina,2013,55.0
+1195,Bosnia and Herzegovina,2014,55.0
+1196,Bosnia and Herzegovina,2015,61.0
+1197,Bosnia and Herzegovina,2016,64.0
+1198,Bosnia and Herzegovina,2017,58.0
+1199,Bosnia and Herzegovina,2018,59.0
+1200,Bosnia and Herzegovina,2019,60.0
+1201,Bosnia and Herzegovina,2020,55.0
+1202,Belgium,2013,552.61
+1203,Belgium,2014,566.35
+1204,Belgium,2015,565.44
+1205,Belgium,2016,580.56
+1206,Belgium,2017,538.58
+1207,Belgium,2018,553.63
+1208,Belgium,2019,550.5
+1209,Belgium,2020,540.49
+1210,Belgium,2021,539.67
+1211,Belgium,2022,525.57
+1212,Bulgaria,2013,61.2
+1213,Bulgaria,2014,72.91
+1214,Bulgaria,2015,75.29
+1215,Bulgaria,2016,92.92
+1216,Bulgaria,2017,86.63
+1217,Bulgaria,2018,83.17
+1218,Bulgaria,2019,80.02
+1219,Bulgaria,2020,78.51
+1220,Bulgaria,2021,97.36
+1221,Bulgaria,2022,90.25
+1222,Switzerland,2015,259.21
+1223,Switzerland,2016,257.74
+1224,Switzerland,2017,259.58
+1225,Switzerland,2018,252.79
+1226,Switzerland,2019,255.32
+1227,Switzerland,2020,252.74
+1228,Switzerland,2021,262.34
+1229,Switzerland,2022,267.98
+1230,Cyprus,2013,11.6
+1231,Cyprus,2014,11.44
+1232,Cyprus,2015,11.7
+1233,Cyprus,2016,11.94
+1234,Cyprus,2017,13.07
+1235,Cyprus,2018,13.31
+1236,Cyprus,2019,14.19
+1237,Cyprus,2020,15.85
+1238,Cyprus,2021,16.64
+1239,Cyprus,2022,15.52
+1240,Czechia,2013,381.7
+1241,Czechia,2014,408.04
+1242,Czechia,2015,399.53
+1243,Czechia,2016,395.31
+1244,Czechia,2017,406.26
+1245,Czechia,2018,402.67
+1246,Czechia,2019,410.48
+1247,Czechia,2020,402.75
+1248,Czechia,2021,407.0
+1249,Czechia,2022,404.64
+1250,Germany (until 1990 former territory of the FRG),2013,3663.65
+1251,Germany (until 1990 former territory of the FRG),2014,3695.49
+1252,Germany (until 1990 former territory of the FRG),2015,3622.24
+1253,Germany (until 1990 former territory of the FRG),2016,3570.57
+1254,Germany (until 1990 former territory of the FRG),2017,3487.58
+1255,Germany (until 1990 former territory of the FRG),2018,3374.91
+1256,Germany (until 1990 former territory of the FRG),2019,3274.62
+1257,Germany (until 1990 former territory of the FRG),2020,3196.81
+1258,Germany (until 1990 former territory of the FRG),2021,3150.25
+1259,Germany (until 1990 former territory of the FRG),2022,3115.16
+1260,Denmark,2013,273.0
+1261,Denmark,2014,279.0
+1262,Denmark,2015,279.0
+1263,Denmark,2016,283.0
+1264,Denmark,2017,273.0
+1265,Denmark,2018,266.0
+1266,Denmark,2019,265.0
+1267,Denmark,2020,276.0
+1268,Denmark,2021,278.0
+1269,Denmark,2022,280.0
+1270,Estonia,2013,67.3
+1271,Estonia,2014,68.8
+1272,Estonia,2015,67.0
+1273,Estonia,2016,64.6
+1274,Estonia,2017,66.7
+1275,Estonia,2018,67.3
+1276,Estonia,2019,67.4
+1277,Estonia,2020,68.5
+1278,Estonia,2021,65.4
+1279,Estonia,2022,65.62
+1280,Greece,2013,119.0
+1281,Greece,2014,113.0
+1282,Greece,2015,100.0
+1283,Greece,2016,107.0
+1284,Greece,2017,106.0
+1285,Greece,2018,106.0
+1286,Greece,2019,111.0
+1287,Greece,2020,67.9
+1288,Greece,2021,64.1
+1289,Greece,2022,56.0
+1290,Spain,2013,659.24
+1291,Spain,2014,716.76
+1292,Spain,2015,630.77
+1293,Spain,2016,621.78
+1294,Spain,2017,615.73
+1295,Spain,2018,631.86
+1296,Spain,2019,656.62
+1297,Spain,2020,661.26
+1298,Spain,2021,790.99
+1299,Spain,2022,741.72
+1300,European Union - 15 countries (1995-2004),2013,18148.84
+1301,European Union - 15 countries (1995-2004),2014,18521.33
+1302,European Union - 15 countries (1995-2004),2015,18231.5
+1303,European Union - 15 countries (1995-2004),2016,18203.9
+1304,European Union - 15 countries (1995-2004),2017,17713.83
+1305,European Union - 15 countries (1995-2004),2018,17250.58
+1306,European Union - 15 countries (1995-2004),2019,17052.04
+1307,European Union - 25 countries (2004-2006),2013,20320.59
+1308,European Union - 25 countries (2004-2006),2014,20758.4
+1309,European Union - 25 countries (2004-2006),2015,20768.11
+1310,European Union - 25 countries (2004-2006),2016,20868.19
+1311,European Union - 25 countries (2004-2006),2017,20391.44
+1312,European Union - 25 countries (2004-2006),2018,19947.85
+1313,European Union - 25 countries (2004-2006),2019,19786.62
+1314,European Union - 27 countries (2007-2013),2013,20682.29
+1315,European Union - 27 countries (2007-2013),2014,21139.7
+1316,European Union - 27 countries (2007-2013),2015,21156.29
+1317,European Union - 27 countries (2007-2013),2016,21274.3
+1318,European Union - 27 countries (2007-2013),2017,20781.96
+1319,European Union - 27 countries (2007-2013),2018,20328.22
+1320,European Union - 27 countries (2007-2013),2019,20171.44
+1321,European Union - 27 countries (from 2020),2013,18031.29
+1322,European Union - 27 countries (from 2020),2014,18442.7
+1323,European Union - 27 countries (from 2020),2015,18345.29
+1324,European Union - 27 countries (from 2020),2016,18483.3
+1325,European Union - 27 countries (from 2020),2017,17988.96
+1326,European Union - 27 countries (from 2020),2018,17619.22
+1327,European Union - 27 countries (from 2020),2019,17469.44
+1328,European Union - 27 countries (from 2020),2020,17447.41
+1329,European Union - 27 countries (from 2020),2021,17483.46
+1330,European Union - 27 countries (from 2020),2022,17310.97
+1331,European Union - 28 countries (2013-2020),2013,20808.29
+1332,European Union - 28 countries (2013-2020),2014,21258.7
+1333,European Union - 28 countries (2013-2020),2015,21284.29
+1334,European Union - 28 countries (2013-2020),2016,21408.3
+1335,European Union - 28 countries (2013-2020),2017,20917.96
+1336,European Union - 28 countries (2013-2020),2018,20462.22
+1337,European Union - 28 countries (2013-2020),2019,20303.44
+1338,Finland,2013,299.14
+1339,Finland,2014,304.24
+1340,Finland,2015,305.05
+1341,Finland,2016,299.38
+1342,Finland,2017,296.11
+1343,Finland,2018,293.1
+1344,Finland,2019,284.73
+1345,Finland,2020,289.06
+1346,Finland,2021,284.3
+1347,Finland,2022,280.53
+1348,France,2013,4812.51
+1349,France,2014,4921.26
+1350,France,2015,4989.54
+1351,France,2016,4943.93
+1352,France,2017,4674.62
+1353,France,2018,4685.33
+1354,France,2019,4525.52
+1355,France,2020,4527.31
+1356,France,2021,4379.32
+1357,France,2022,4304.03
+1358,Croatia,2013,126.0
+1359,Croatia,2014,119.0
+1360,Croatia,2015,128.0
+1361,Croatia,2016,134.0
+1362,Croatia,2017,136.0
+1363,Croatia,2018,134.0
+1364,Croatia,2019,132.0
+1365,Croatia,2020,127.0
+1366,Croatia,2021,136.0
+1367,Croatia,2022,130.0
+1368,Hungary,2013,159.0
+1369,Hungary,2014,169.0
+1370,Hungary,2015,164.0
+1371,Hungary,2016,177.0
+1372,Hungary,2017,176.0
+1373,Hungary,2018,179.0
+1374,Hungary,2019,183.0
+1375,Hungary,2020,185.9
+1376,Hungary,2021,177.5
+1377,Hungary,2022,168.6
+1378,Ireland,2013,1887.69
+1379,Ireland,2014,1877.4
+1380,Ireland,2015,2019.0
+1381,Ireland,2016,2069.41
+1382,Ireland,2017,2072.91
+1383,Ireland,2018,1980.48
+1384,Ireland,2019,1929.48
+1385,Ireland,2020,2027.68
+1386,Ireland,2021,2077.79
+1387,Ireland,2022,1962.12
+1388,Iceland,2013,19.6
+1389,Iceland,2014,19.6
+1390,Iceland,2015,19.6
+1391,Iceland,2022,21.89
+1392,Italy,2013,1194.84
+1393,Italy,2014,1155.48
+1394,Italy,2015,685.76
+1395,Italy,2016,729.64
+1396,Italy,2017,716.33
+1397,Italy,2018,722.25
+1398,Italy,2019,774.33
+1399,Italy,2020,783.03
+1400,Italy,2021,766.81
+1401,Italy,2022,695.0
+1402,Lithuania,2013,131.3
+1403,Lithuania,2014,134.4
+1404,Lithuania,2015,120.7
+1405,Lithuania,2016,118.7
+1406,Lithuania,2017,112.1
+1407,Lithuania,2018,108.1
+1408,Lithuania,2019,104.1
+1409,Lithuania,2020,107.7
+1410,Lithuania,2021,107.1
+1411,Lithuania,2022,110.44
+1412,Luxembourg,2013,51.28
+1413,Luxembourg,2014,50.1
+1414,Luxembourg,2015,48.08
+1415,Luxembourg,2016,49.19
+1416,Luxembourg,2017,45.42
+1417,Luxembourg,2018,45.26
+1418,Luxembourg,2019,45.17
+1419,Luxembourg,2020,45.02
+1420,Luxembourg,2021,44.06
+1421,Luxembourg,2022,43.18
+1422,Latvia,2013,56.29
+1423,Latvia,2014,60.97
+1424,Latvia,2015,58.5
+1425,Latvia,2016,58.19
+1426,Latvia,2017,55.72
+1427,Latvia,2018,54.55
+1428,Latvia,2019,55.75
+1429,Latvia,2020,57.44
+1430,Latvia,2021,54.96
+1431,Latvia,2022,55.2
+1432,Montenegro,2013,9.0
+1433,Montenegro,2014,11.0
+1434,Montenegro,2015,12.0
+1435,Montenegro,2016,9.0
+1436,Montenegro,2017,11.0
+1437,Montenegro,2018,9.4
+1438,Montenegro,2019,9.3
+1439,Montenegro,2020,9.07
+1440,Montenegro,2021,8.52
+1441,North Macedonia,2013,58.0
+1442,North Macedonia,2014,54.0
+1443,North Macedonia,2015,62.0
+1444,North Macedonia,2016,58.0
+1445,North Macedonia,2017,62.0
+1446,North Macedonia,2018,67.0
+1447,North Macedonia,2019,57.0
+1448,North Macedonia,2020,52.0
+1449,North Macedonia,2021,43.0
+1450,North Macedonia,2022,35.0
+1451,Malta,2013,4.3
+1452,Malta,2014,4.48
+1453,Malta,2015,4.17
+1454,Malta,2016,3.88
+1455,Malta,2017,4.18
+1456,Malta,2018,4.25
+1457,Malta,2019,4.0
+1458,Malta,2020,4.37
+1459,Malta,2021,4.28
+1460,Malta,2022,4.35
+1461,Netherlands,2013,627.0
+1462,Netherlands,2014,736.0
+1463,Netherlands,2015,751.0
+1464,Netherlands,2016,724.0
+1465,Netherlands,2017,646.0
+1466,Netherlands,2018,454.0
+1467,Netherlands,2019,486.0
+1468,Netherlands,2020,509.0
+1469,Netherlands,2021,497.0
+1470,Netherlands,2022,513.0
+1471,Poland,2013,1118.65
+1472,Poland,2014,1136.78
+1473,Poland,2015,1457.0
+1474,Poland,2016,1580.0
+1475,Poland,2017,1598.8
+1476,Poland,2018,1623.3
+1477,Poland,2019,1650.4
+1478,Poland,2020,1646.1
+1479,Poland,2021,1697.8
+1480,Poland,2022,1820.95
+1481,Portugal,2013,319.53
+1482,Portugal,2014,369.53
+1483,Portugal,2015,394.65
+1484,Portugal,2016,388.93
+1485,Portugal,2017,396.99
+1486,Portugal,2018,385.92
+1487,Portugal,2019,429.42
+1488,Portugal,2020,416.98
+1489,Portugal,2021,430.03
+1490,Portugal,2022,421.96
+1491,Romania,2013,300.5
+1492,Romania,2014,308.4
+1493,Romania,2015,312.9
+1494,Romania,2016,313.2
+1495,Romania,2017,303.9
+1496,Romania,2018,297.2
+1497,Romania,2019,304.8
+1498,Romania,2020,274.4
+1499,Romania,2021,270.5
+1500,Romania,2022,269.8
+1501,Serbia,2013,269.0
+1502,Serbia,2014,270.0
+1503,Serbia,2015,270.0
+1504,Serbia,2016,256.0
+1505,Serbia,2017,256.0
+1506,Serbia,2018,242.0
+1507,Serbia,2019,245.0
+1508,Serbia,2020,242.0
+1509,Serbia,2021,220.0
+1510,Serbia,2022,202.73
+1511,Sweden,2013,448.24
+1512,Sweden,2014,452.4
+1513,Sweden,2015,437.0
+1514,Sweden,2016,440.2
+1515,Sweden,2017,449.3
+1516,Sweden,2018,445.57
+1517,Sweden,2019,432.44
+1518,Sweden,2020,443.22
+1519,Sweden,2021,440.33
+1520,Sweden,2022,442.3
+1521,Slovenia,2013,129.69
+1522,Slovenia,2014,133.46
+1523,Slovenia,2015,141.65
+1524,Slovenia,2016,144.01
+1525,Slovenia,2017,140.1
+1526,Slovenia,2018,140.92
+1527,Slovenia,2019,142.15
+1528,Slovenia,2020,141.06
+1529,Slovenia,2021,144.54
+1530,Slovenia,2022,135.68
+1531,Slovakia,2013,111.92
+1532,Slovakia,2014,109.69
+1533,Slovakia,2015,112.36
+1534,Slovakia,2016,110.66
+1535,Slovakia,2017,104.67
+1536,Slovakia,2018,103.87
+1537,Slovakia,2019,103.11
+1538,Slovakia,2020,106.48
+1539,Slovakia,2021,104.86
+1540,Slovakia,2022,106.36
+1541,Türkiye,2013,3570.79
+1542,Türkiye,2014,3465.43
+1543,Türkiye,2015,3424.92
+1544,Türkiye,2016,3518.95
+1545,Türkiye,2017,4266.24
+1546,Türkiye,2018,4463.94
+1547,Türkiye,2019,3786.26
+1548,Türkiye,2020,3742.75
+1549,Türkiye,2021,3730.96
+1550,United Kingdom,2013,2777.0
+1551,United Kingdom,2014,2816.0
+1552,United Kingdom,2015,2939.0
+1553,United Kingdom,2016,2925.0
+1554,United Kingdom,2017,2929.0
+1555,United Kingdom,2018,2843.0
+1556,United Kingdom,2019,2834.0
+1557,Kosovo (under United Nations Security Council Resolution 1244/99),2014,43.43
+1558,Kosovo (under United Nations Security Council Resolution 1244/99),2015,42.35
+1559,Kosovo (under United Nations Security Council Resolution 1244/99),2016,37.88
+1560,Kosovo (under United Nations Security Council Resolution 1244/99),2017,39.3
+1561,Kosovo (under United Nations Security Council Resolution 1244/99),2018,39.3
+1562,Kosovo (under United Nations Security Council Resolution 1244/99),2019,38.21
+1563,Kosovo (under United Nations Security Council Resolution 1244/99),2020,38.42
+1564,Kosovo (under United Nations Security Council Resolution 1244/99),2021,34.91
+1565,Albania,2014,37.65
+1566,Albania,2015,37.98
+1567,Albania,2016,37.32
+1568,Albania,2017,44.19
+1569,Albania,2018,43.69
+1570,Albania,2019,34.97
+1571,Albania,2020,26.03
+1572,Albania,2021,21.0
+1573,Austria,2013,434.55
+1574,Austria,2014,432.46
+1575,Austria,2015,439.08
+1576,Austria,2016,432.04
+1577,Austria,2017,438.59
+1578,Austria,2018,428.38
+1579,Austria,2019,426.43
+1580,Austria,2020,414.4
+1581,Austria,2021,421.08
+1582,Austria,2022,430.13
+1583,Bosnia and Herzegovina,2013,73.0
+1584,Bosnia and Herzegovina,2014,73.0
+1585,Bosnia and Herzegovina,2015,74.0
+1586,Bosnia and Herzegovina,2016,74.0
+1587,Bosnia and Herzegovina,2017,77.0
+1588,Bosnia and Herzegovina,2018,78.0
+1589,Bosnia and Herzegovina,2019,76.0
+1590,Bosnia and Herzegovina,2020,77.0
+1591,Belgium,2013,489.68
+1592,Belgium,2014,489.72
+1593,Belgium,2015,493.35
+1594,Belgium,2016,492.0
+1595,Belgium,2017,484.33
+1596,Belgium,2018,464.36
+1597,Belgium,2019,463.56
+1598,Belgium,2020,460.69
+1599,Belgium,2021,454.13
+1600,Belgium,2022,454.1
+1601,Bulgaria,2013,61.68
+1602,Bulgaria,2014,65.34
+1603,Bulgaria,2015,63.99
+1604,Bulgaria,2016,63.2
+1605,Bulgaria,2017,56.76
+1606,Bulgaria,2018,58.74
+1607,Bulgaria,2019,58.49
+1608,Bulgaria,2020,71.38
+1609,Bulgaria,2021,67.15
+1610,Bulgaria,2022,69.67
+1611,Switzerland,2015,246.34
+1612,Switzerland,2016,243.26
+1613,Switzerland,2017,247.22
+1614,Switzerland,2018,240.76
+1615,Switzerland,2019,240.05
+1616,Switzerland,2020,236.23
+1617,Switzerland,2021,242.66
+1618,Switzerland,2022,254.09
+1619,Cyprus,2013,9.11
+1620,Cyprus,2014,10.06
+1621,Cyprus,2015,9.34
+1622,Cyprus,2016,9.74
+1623,Cyprus,2017,10.68
+1624,Cyprus,2018,12.16
+1625,Cyprus,2019,11.53
+1626,Cyprus,2020,13.77
+1627,Cyprus,2021,15.02
+1628,Cyprus,2022,14.6
+1629,Czechia,2013,299.73
+1630,Czechia,2014,311.42
+1631,Czechia,2015,309.16
+1632,Czechia,2016,295.06
+1633,Czechia,2017,299.25
+1634,Czechia,2018,304.27
+1635,Czechia,2019,298.78
+1636,Czechia,2020,295.32
+1637,Czechia,2021,296.26
+1638,Czechia,2022,314.41
+1639,Germany (until 1990 former territory of the FRG),2013,3014.73
+1640,Germany (until 1990 former territory of the FRG),2014,3010.86
+1641,Germany (until 1990 former territory of the FRG),2015,2993.28
+1642,Germany (until 1990 former territory of the FRG),2016,2959.71
+1643,Germany (until 1990 former territory of the FRG),2017,2904.25
+1644,Germany (until 1990 former territory of the FRG),2018,2829.08
+1645,Germany (until 1990 former territory of the FRG),2019,2751.31
+1646,Germany (until 1990 former territory of the FRG),2020,2639.02
+1647,Germany (until 1990 former territory of the FRG),2021,2568.76
+1648,Germany (until 1990 former territory of the FRG),2022,2600.25
+1649,Denmark,2013,319.0
+1650,Denmark,2014,307.0
+1651,Denmark,2015,302.0
+1652,Denmark,2016,298.0
+1653,Denmark,2017,294.0
+1654,Denmark,2018,284.0
+1655,Denmark,2019,280.0
+1656,Denmark,2020,279.0
+1657,Denmark,2021,280.0
+1658,Denmark,2022,281.0
+1659,Estonia,2013,53.6
+1660,Estonia,2014,54.1
+1661,Estonia,2015,52.6
+1662,Estonia,2016,50.1
+1663,Estonia,2017,49.4
+1664,Estonia,2018,49.2
+1665,Estonia,2019,49.8
+1666,Estonia,2020,49.4
+1667,Estonia,2021,50.9
+1668,Estonia,2022,49.0
+1669,Greece,2013,129.0
+1670,Greece,2014,119.0
+1671,Greece,2015,103.0
+1672,Greece,2016,102.0
+1673,Greece,2017,101.0
+1674,Greece,2018,96.0
+1675,Greece,2019,91.0
+1676,Greece,2020,144.5
+1677,Greece,2021,113.7
+1678,Greece,2022,106.6
+1679,Spain,2013,735.1
+1680,Spain,2014,745.83
+1681,Spain,2015,786.38
+1682,Spain,2016,803.88
+1683,Spain,2017,822.23
+1684,Spain,2018,846.72
+1685,Spain,2019,857.05
+1686,Spain,2020,852.7
+1687,Spain,2021,1016.46
+1688,Spain,2022,784.84
+1689,European Union - 15 countries (1995-2004),2013,15591.26
+1690,European Union - 15 countries (1995-2004),2014,15341.27
+1691,European Union - 15 countries (1995-2004),2015,15495.73
+1692,European Union - 15 countries (1995-2004),2016,15740.89
+1693,European Union - 15 countries (1995-2004),2017,15561.57
+1694,European Union - 15 countries (1995-2004),2018,15156.32
+1695,European Union - 15 countries (1995-2004),2019,14982.17
+1696,European Union - 25 countries (2004-2006),2013,17947.5
+1697,European Union - 25 countries (2004-2006),2014,17780.02
+1698,European Union - 25 countries (2004-2006),2015,18030.41
+1699,European Union - 25 countries (2004-2006),2016,18342.47
+1700,European Union - 25 countries (2004-2006),2017,18189.37
+1701,European Union - 25 countries (2004-2006),2018,17847.31
+1702,European Union - 25 countries (2004-2006),2019,17710.09
+1703,European Union - 27 countries (2007-2013),2013,18246.88
+1704,European Union - 27 countries (2007-2013),2014,18099.05
+1705,European Union - 27 countries (2007-2013),2015,18355.6
+1706,European Union - 27 countries (2007-2013),2016,18656.28
+1707,European Union - 27 countries (2007-2013),2017,18494.53
+1708,European Union - 27 countries (2007-2013),2018,18147.04
+1709,European Union - 27 countries (2007-2013),2019,17991.98
+1710,European Union - 27 countries (from 2020),2013,15927.88
+1711,European Union - 27 countries (from 2020),2014,15855.05
+1712,European Union - 27 countries (from 2020),2015,16071.6
+1713,European Union - 27 countries (from 2020),2016,16310.28
+1714,European Union - 27 countries (from 2020),2017,16181.53
+1715,European Union - 27 countries (from 2020),2018,15838.04
+1716,European Union - 27 countries (from 2020),2019,15763.98
+1717,European Union - 27 countries (from 2020),2020,15620.62
+1718,European Union - 27 countries (from 2020),2021,15732.25
+1719,European Union - 27 countries (from 2020),2022,15302.18
+1720,European Union - 28 countries (2013-2020),2013,18338.88
+1721,European Union - 28 countries (2013-2020),2014,18187.05
+1722,European Union - 28 countries (2013-2020),2015,18443.6
+1723,European Union - 28 countries (2013-2020),2016,18745.28
+1724,European Union - 28 countries (2013-2020),2017,18594.53
+1725,European Union - 28 countries (2013-2020),2018,18243.04
+1726,European Union - 28 countries (2013-2020),2019,18098.98
+1727,Finland,2013,223.62
+1728,Finland,2014,222.55
+1729,Finland,2015,221.31
+1730,Finland,2016,218.49
+1731,Finland,2017,213.1
+1732,Finland,2018,209.69
+1733,Finland,2019,204.62
+1734,Finland,2020,199.38
+1735,Finland,2021,205.26
+1736,Finland,2022,203.0
+1737,France,2013,3437.72
+1738,France,2014,3415.74
+1739,France,2015,3459.24
+1740,France,2016,3474.52
+1741,France,2017,3381.36
+1742,France,2018,3180.34
+1743,France,2019,3183.45
+1744,France,2020,3062.93
+1745,France,2021,3021.31
+1746,France,2022,2992.01
+1747,Croatia,2013,92.0
+1748,Croatia,2014,88.0
+1749,Croatia,2015,88.0
+1750,Croatia,2016,89.0
+1751,Croatia,2017,100.0
+1752,Croatia,2018,96.0
+1753,Croatia,2019,107.0
+1754,Croatia,2020,111.0
+1755,Croatia,2021,107.0
+1756,Croatia,2022,112.0
+1757,Hungary,2013,179.0
+1758,Hungary,2014,176.0
+1759,Hungary,2015,180.0
+1760,Hungary,2016,176.0
+1761,Hungary,2017,179.0
+1762,Hungary,2018,182.0
+1763,Hungary,2019,193.0
+1764,Hungary,2020,195.2
+1765,Hungary,2021,153.2
+1766,Hungary,2022,158.7
+1767,Ireland,2013,1714.41
+1768,Ireland,2014,1648.76
+1769,Ireland,2015,1659.96
+1770,Ireland,2016,1778.12
+1771,Ireland,2017,1792.21
+1772,Ireland,2018,1789.7
+1773,Ireland,2019,1741.38
+1774,Ireland,2020,1708.02
+1775,Ireland,2021,1775.24
+1776,Ireland,2022,1810.25
+1777,Iceland,2013,20.2
+1778,Iceland,2014,20.2
+1779,Iceland,2015,20.2
+1780,Iceland,2016,20.2
+1781,Iceland,2017,20.4
+1782,Iceland,2018,20.0
+1783,Iceland,2019,20.3
+1784,Iceland,2020,21.5
+1785,Iceland,2022,20.55
+1786,Italy,2013,1456.56
+1787,Italy,2014,1365.74
+1788,Italy,2015,1379.08
+1789,Italy,2016,1448.04
+1790,Italy,2017,1500.51
+1791,Italy,2018,1537.6
+1792,Italy,2019,1588.0
+1793,Italy,2020,1595.38
+1794,Italy,2021,1561.58
+1795,Italy,2022,1520.0
+1796,Lithuania,2013,143.6
+1797,Lithuania,2014,149.3
+1798,Lithuania,2015,151.9
+1799,Lithuania,2016,142.5
+1800,Lithuania,2017,135.1
+1801,Lithuania,2018,133.0
+1802,Lithuania,2019,131.7
+1803,Lithuania,2020,128.5
+1804,Lithuania,2021,134.5
+1805,Lithuania,2022,129.64
+1806,Luxembourg,2013,45.24
+1807,Luxembourg,2014,46.5
+1808,Luxembourg,2015,44.64
+1809,Luxembourg,2016,44.42
+1810,Luxembourg,2017,44.29
+1811,Luxembourg,2018,41.6
+1812,Luxembourg,2019,41.2
+1813,Luxembourg,2020,40.75
+1814,Luxembourg,2021,40.49
+1815,Luxembourg,2022,40.54
+1816,Latvia,2013,75.31
+1817,Latvia,2014,74.86
+1818,Latvia,2015,76.2
+1819,Latvia,2016,72.54
+1820,Latvia,2017,69.71
+1821,Latvia,2018,64.9
+1822,Latvia,2019,64.66
+1823,Latvia,2020,65.43
+1824,Latvia,2021,67.93
+1825,Latvia,2022,65.66
+1826,Montenegro,2013,4.0
+1827,Montenegro,2014,4.0
+1828,Montenegro,2015,5.0
+1829,Montenegro,2016,7.0
+1830,Montenegro,2017,5.0
+1831,Montenegro,2018,4.0
+1832,Montenegro,2019,4.0
+1833,Montenegro,2020,3.63
+1834,Montenegro,2021,3.36
+1835,North Macedonia,2013,17.0
+1836,North Macedonia,2014,16.0
+1837,North Macedonia,2015,17.0
+1838,North Macedonia,2016,21.0
+1839,North Macedonia,2017,15.0
+1840,North Macedonia,2018,18.0
+1841,North Macedonia,2019,15.0
+1842,North Macedonia,2020,15.0
+1843,North Macedonia,2021,9.0
+1844,North Macedonia,2022,7.0
+1845,Malta,2013,3.76
+1846,Malta,2014,3.17
+1847,Malta,2015,3.65
+1848,Malta,2016,3.19
+1849,Malta,2017,3.08
+1850,Malta,2018,2.9
+1851,Malta,2019,3.11
+1852,Malta,2020,2.97
+1853,Malta,2021,3.07
+1854,Malta,2022,2.97
+1855,Netherlands,2013,627.0
+1856,Netherlands,2014,657.0
+1857,Netherlands,2015,660.0
+1858,Netherlands,2016,644.0
+1859,Netherlands,2017,575.0
+1860,Netherlands,2018,465.0
+1861,Netherlands,2019,440.0
+1862,Netherlands,2020,465.0
+1863,Netherlands,2021,482.0
+1864,Netherlands,2022,496.0
+1865,Poland,2013,1371.6
+1866,Poland,2014,1444.87
+1867,Poland,2015,1531.5
+1868,Poland,2016,1637.3
+1869,Poland,2017,1668.7
+1870,Poland,2018,1731.7
+1871,Poland,2019,1756.5
+1872,Poland,2020,1800.0
+1873,Poland,2021,1914.8
+1874,Poland,2022,1698.56
+1875,Portugal,2013,211.29
+1876,Portugal,2014,213.7
+1877,Portugal,2015,240.22
+1878,Portugal,2016,266.57
+1879,Portugal,2017,255.72
+1880,Portugal,2018,235.93
+1881,Portugal,2019,240.35
+1882,Portugal,2020,257.02
+1883,Portugal,2021,214.28
+1884,Portugal,2022,200.89
+1885,Romania,2013,237.7
+1886,Romania,2014,253.7
+1887,Romania,2015,261.2
+1888,Romania,2016,250.6
+1889,Romania,2017,248.4
+1890,Romania,2018,241.0
+1891,Romania,2019,223.4
+1892,Romania,2020,225.3
+1893,Romania,2021,221.5
+1894,Romania,2022,221.6
+1895,Serbia,2013,132.0
+1896,Serbia,2014,124.0
+1897,Serbia,2015,125.0
+1898,Serbia,2016,150.0
+1899,Serbia,2017,140.0
+1900,Serbia,2018,108.0
+1901,Serbia,2019,142.0
+1902,Serbia,2020,140.0
+1903,Serbia,2021,142.0
+1904,Serbia,2022,148.25
+1905,Sweden,2013,342.36
+1906,Sweden,2014,334.4
+1907,Sweden,2015,342.2
+1908,Sweden,2016,344.12
+1909,Sweden,2017,341.98
+1910,Sweden,2018,342.92
+1911,Sweden,2019,338.82
+1912,Sweden,2020,323.39
+1913,Sweden,2021,334.04
+1914,Sweden,2022,332.57
+1915,Slovenia,2013,122.97
+1916,Slovenia,2014,122.31
+1917,Slovenia,2015,129.37
+1918,Slovenia,2016,130.77
+1919,Slovenia,2017,128.48
+1920,Slovenia,2018,127.76
+1921,Slovenia,2019,135.53
+1922,Slovenia,2020,133.27
+1923,Slovenia,2021,130.71
+1924,Slovenia,2022,129.92
+1925,Slovakia,2013,97.56
+1926,Slovakia,2014,92.66
+1927,Slovakia,2015,90.97
+1928,Slovakia,2016,84.38
+1929,Slovakia,2017,84.41
+1930,Slovakia,2018,83.1
+1931,Slovakia,2019,83.32
+1932,Slovakia,2020,86.89
+1933,Slovakia,2021,81.88
+1934,Slovakia,2022,83.28
+1935,Türkiye,2013,3715.06
+1936,Türkiye,2014,3588.38
+1937,Türkiye,2015,3541.08
+1938,Türkiye,2016,3676.37
+1939,Türkiye,2017,4207.27
+1940,Türkiye,2018,4571.47
+1941,Türkiye,2019,4678.86
+1942,Türkiye,2020,4661.94
+1943,Türkiye,2021,4678.05
+1944,United Kingdom,2013,2411.0
+1945,United Kingdom,2014,2332.0
+1946,United Kingdom,2015,2372.0
+1947,United Kingdom,2016,2435.0
+1948,United Kingdom,2017,2413.0
+1949,United Kingdom,2018,2405.0
+1950,United Kingdom,2019,2335.0
+1951,Kosovo (under United Nations Security Council Resolution 1244/99),2014,25.28
+1952,Kosovo (under United Nations Security Council Resolution 1244/99),2015,22.75
+1953,Kosovo (under United Nations Security Council Resolution 1244/99),2016,25.72
+1954,Kosovo (under United Nations Security Council Resolution 1244/99),2017,24.81
+1955,Kosovo (under United Nations Security Council Resolution 1244/99),2018,24.81
+1956,Kosovo (under United Nations Security Council Resolution 1244/99),2019,26.15
+1957,Kosovo (under United Nations Security Council Resolution 1244/99),2020,25.56
+1958,Kosovo (under United Nations Security Council Resolution 1244/99),2021,26.84
