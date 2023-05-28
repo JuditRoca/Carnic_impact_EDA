@@ -3,16 +3,18 @@
 
 ## Introducción 📋
 
-_En la cultura vegana se defiende fuertemente que la industria cárnica es uno de las
-grandes causas del cambio climatico. Existen informes donde se refleja el consumo de recursos y 
-las emisiones que produce dicha industria pero, cuan dispares son a los generados por 
-la la agricultura?
-Con este EDA buscamos contrastar las emisiones generadas por ambas industrias para tener una vision mas clara del daño que produce el consumo de productos carnicos, no solo a nuestra salud, sino a al planeta_
+_Este estudio analiza la relación entre la población bovina, las emisiones de la industria cárnica y la agricultura. Mediante técnicas estadísticas y visualización de datos, se busca comprender el impacto ambiental de estas actividades y contrastar las emisiones generadas por la industria cárnica con las asociadas a la agricultura. El objetivo es destacar la importancia de considerar alternativas sostenibles en la producción y consumo de alimentos_
 
 ----------
+ ## Estructura repositorio. 📖 
 
+ _Data: Esta carpeta contiene todos los conjuntos de datos utilizados en el estudio. Estos archivos son empleados en los notebooks para realizar el análisis y generar los gráficos.
 
-## Fuentes 📖
+_Notebooks: Aquí se encuentran los notebooks utilizados para el tratamiento de los datos y la creación de los gráficos. Estos notebooks contienen el código y las explicaciones paso a paso de los procesos realizados.
+
+_Gráficos: En esta carpeta se almacenan los gráficos generados a partir de los datos analizados. Los archivos se encuentran en formato PNG y representan visualmente los resultados obtenidos.
+
+## Fuentes 📚 
 _Para ese EDA hemos recogido datos de la web europea eurostat y ourworldindata._
 
 ***Repository link:*** https://github.com/JuditRoca/EDA.git
