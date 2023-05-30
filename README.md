@@ -1,5 +1,5 @@
 # EDA - Impacto  industria cárnica - Mayo 2023
-![EDA](scr\Data\portada.png.png)
+![portada](scr\Data\portada.png.png)
 
 ## Introducción 📋
 
